@@ -1,0 +1,5 @@
+scipy==1.4.1
+scikit-learn==1.0.2
+pytorch_pretrained_vit==0.0.7
+easydict==1.9
+statsmodels==0.13.2
